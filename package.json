@@ -14,7 +14,7 @@
     "express": "^4.16.4",
     "google-images": "^2.1.0",
     "jfile": "^1.1.12",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-opus": "^0.3.1",
     "parse-time": "^0.1.4",
     "ytdl-core": "^0.29.0"
